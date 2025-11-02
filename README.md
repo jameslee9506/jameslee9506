@@ -13,8 +13,10 @@ I enjoy exploring and experimenting with new technologies.
 
 #### Education
 
-* Korea University
+* Korea Univ.
   * AI/Bigdata Master Degree (25.09 ~ now)
+* Kwangwoon Univ.
+  * Department of Software (17 ~ 23)
 
 #### Contact
 
