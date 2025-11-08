@@ -1,23 +1,31 @@
-## Hello
+## Profile Summary
 
-I enjoy exploring and experimenting with new technologies.
+#### Interests
+`ML`, `AI`, `Crpyto`, `Finance`, `Cartoon`
+
+#### Skill
+* Designing and scaling large-scale services  
+* Building and leading service-oriented teams  
+* Solving complex problems with technical insight  
+* Communicating effectively with diverse stakeholders
 
 #### Experience
 
-* GRAPHIC Company Limited
-  * Co-founder, CTO (23.09 ~ now)
-* Kakao Brain
-  * PathFinder (23.06 ~ 23.08)
-* Blueant
-  * Fullstack Engineer (21.03 ~ 23.06)
+* `GRAPHIC Company Limited`
+  * Co-founder, CTO (~ current)
+* `Kakao Brain`
+  * PathFinder2
+* `Blueant`
+  * Founding Member
 
 #### Education
 
-* Korea Univ.
-  * AI/Bigdata Master Degree (25.09 ~ now)
-* Kwangwoon Univ.
-  * Department of Software (17 ~ 23)
+* `Korea Univ.`
+  * M.S. in AI / Bigdata Convergence (~ current)
+* `Kwangwoon Univ.` 
+  * B.S. in Software Engineering
 
 #### Contact
 
 * email : jameslee9506@gmail.com
+* address : [GRAPHIC, Iteawon.](https://maps.app.goo.gl/UK2kb3EAmd4K1NEi9)
