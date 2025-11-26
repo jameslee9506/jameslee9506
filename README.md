@@ -1,22 +1,19 @@
 ## Profile Summary
 
 #### Interests
-`ML`, `AI`, `Crpyto`
+ML, AI, Crpyto
 
 #### Experience
 
-* `GRAPHIC Company Limited`
-  * Co-founder, CTO (~ current)
-* `Kakao Brain`
-  * PathFinder2
-* `Blueant`
-  * Founding Member
+* GRAPHIC, CTO
+* Kakao Brain, PathFinder2
+* Blueant, Founding Member
 
 #### Education
 
-* `Korea Univ.`
-  * M.S. in AI / Bigdata Convergence (~ current)
-* `Kwangwoon Univ.` 
+* Korea Univ.
+  * M.S. in AI / Bigdata
+* Kwangwoon Univ.
   * B.S. in Software Engineering
 
 #### Contact
