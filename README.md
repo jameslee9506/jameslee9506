@@ -1,13 +1,7 @@
 ## Profile Summary
 
 #### Interests
-`ML`, `AI`, `Crpyto`, `Finance`, `Cartoon`
-
-#### Skill
-* Designing and scaling large-scale services  
-* Building and leading service-oriented teams  
-* Solving complex problems with technical insight  
-* Communicating effectively with diverse stakeholders
+`ML`, `AI`, `Crpyto`
 
 #### Experience
 
