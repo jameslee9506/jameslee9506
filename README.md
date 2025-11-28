@@ -11,10 +11,8 @@ ML, AI, Crpyto
 
 #### Education
 
-* Korea Univ.
-  * M.S. in AI / Bigdata
-* Kwangwoon Univ.
-  * B.S. in Software Engineering
+* Korea Univ. (M.S. in AI / Bigdata)
+* Kwangwoon Univ. (B.S. in Software)
 
 #### Contact
 
