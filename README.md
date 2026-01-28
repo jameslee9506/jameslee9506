@@ -1,20 +1,15 @@
-## Profile Summary
+## Experiences
 
-#### Interests
-ML, AI, Crpyto
+* GRAPHIC Bookstore `(23.06 ~ Current)` : CTO
+* Kakao Brain `(23.07 ~ 23.09)` : PathFinder
+* Blueant `(21.03 ~ 23.06)` : Founding Member
 
-#### Experience
+## Educations
 
-* GRAPHIC, CTO
-* Kakao Brain, PathFinder2
-* Blueant, Founding Member
+#### Korea Univercity
+* Master Degree in AI / Bigdata
+#### Kwangwoon Univercity
+* Bachelor Degree in Software
 
-#### Education
-
-* Korea Univ. (M.S. in AI / Bigdata)
-* Kwangwoon Univ. (B.S. in Software)
-
-#### Contact
-
+## Contact
 * email : jameslee9506@gmail.com
-* address : [GRAPHIC, Iteawon.](https://maps.app.goo.gl/UK2kb3EAmd4K1NEi9)
