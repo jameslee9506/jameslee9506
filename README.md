@@ -6,10 +6,8 @@
 
 ## Educations
 
-#### Korea Univercity
-* Master Degree in AI / Bigdata
-#### Kwangwoon Univercity
-* Bachelor Degree in Software
+* Korea Univ. : Master Degree in `AI / Bigdata`
+* Kwangwoon Univ. : Bachelor Degree in `Software`
 
 ## Contact
 * email : jameslee9506@gmail.com
