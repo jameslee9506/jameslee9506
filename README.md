@@ -1,13 +1,18 @@
-## Experiences
+## Experience
 
-* GRAPHIC Bookstore `(23.06 ~ Current)` : CTO
-* Kakao Brain `(23.07 ~ 23.09)` : PathFinder
-* Blueant `(21.03 ~ 23.06)` : Founding Member
+* GRAPHIC. Ltd. `(Jun 2023 – Present)` : CTO
+* Kakao Brain `(Jul 2023 – Sep 2023)` : Pathfinder
+* Blueant `(Mar 2021 – Jun 2023)` : Founding Team Member
 
-## Educations
+## Education
 
-* Korea Univ. : Master Degree in `AI / Bigdata`
-* Kwangwoon Univ. : Bachelor Degree in `Software`
+* Korea University : Master's Degree in AI / Big Data
+* Kwangwoon University : Bachelor's Degree in Software
+
+## Current Projects
+* 🔹 FREAQ : Bluetooth-based music interest sharing app
 
 ## Contact
-* email : jameslee9506@gmail.com
+Feel free to reach out anytime 🙂
+
+* jameslee9506@gmail.com
