@@ -13,6 +13,11 @@ Welcome to my space 👋 I build useful tools. Feel free to explore.
 * Korea Univ. - Master's Degree in AI / Big Data
 * Kwangwoon Univ. - Bachelor's Degree in Software
 
+**Tools**
+
+* [GitViewer](https://github.com/jameslee9506/git-viewer) — Minimal Git viewer
+* [MiniNote](https://github.com/jameslee9506/mininote) — Minimal note-taking app
+
 ---
 
 **Contact**
